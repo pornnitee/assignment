@@ -1,0 +1,42 @@
+.App .row {
+ display: inline;
+  margin:20px 0px 10px 0px; }
+
+.input-username {
+  margin-top: 20px;
+  width: 70%;
+  height:30px;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.btn-submit{
+  margin-left: 35px;
+  width: 10%;
+  height:40px;
+  background-color: #a6a6a6;
+  border: none;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.detail {
+  background-color: #FFF;
+  padding: 20px;
+  width: 30%;
+  margin: auto;
+}
+
+img{
+  height: 35px;
+  width : 35px;
+}
